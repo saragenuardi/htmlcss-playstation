@@ -21,12 +21,59 @@ a {
 
 /* NAV */
 
+/* nav top */
+
 .ms_nav-top {
     height: 40px;
     background-color: black;
 }
 
- .ms_logo-sony > img {
-    width: 150px;
-    height: auto;
+ .ms_nav-top  img {
+    width: 4rem;
+}
+
+/* burger */
+#ms_nav_burger {
+    font-size: 2rem;
+    padding: 0 1rem;
+    border: 1px solid #e5e5e5;
+    border-radius: 5px;
+    color: #737373;
+}
+
+/* nav bot */
+
+.ms_nav-bot img {
+    width: 4rem;
+}
+
+.ms_nav-bot {
+    background-color: aquamarine;
+    height: 4rem;
+    line-height: 4rem;
+}
+
+.ms_nav-dx ul,
+.ms_nav-sx ul {
+    list-style: none;
+    padding: 0;
+}
+
+.ms_nav_extend_dx li,
+.ms_nav-sx li {
+    display: inline-block;
+    padding-right: 1rem;
+}
+
+.ms_nav-dx li img,
+.ms_nav-sx li img{
+    width: 0.5rem;
+}
+
+.ms_nav-dx a,
+.ms_nav-sx a {
+    text-decoration: none;
+    color: black;
+    font-weight: 500;
+    font-size: .9rem;
 }
