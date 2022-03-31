@@ -77,3 +77,23 @@ a {
     font-weight: 500;
     font-size: .9rem;
 }
+
+
+/* JUMBOTRON */
+
+.jumbotron {
+    height: 650px;
+    padding-top: 20rem;
+    background-position: center;
+    background-image: url(../img/jumbo-bg.png);
+}
+
+.logo-jumbo {
+    width: 15rem;
+}
+
+
+.ms_title-jumbo {
+    font-size: 2.5rem;
+}
+
