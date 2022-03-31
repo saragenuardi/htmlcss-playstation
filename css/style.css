@@ -19,6 +19,21 @@ a {
     text-decoration: none;
 }
 
+.ms_card {
+    overflow: hidden;
+    border-radius: 10px;
+}
+
+.ms_subtitle {
+    font-size: 1rem;
+    color: #8f8f8f;
+    font-weight: bolder;
+}
+
+.no-limits {
+    color: #0070D1;
+    font-weight: bolder;
+}
 /* NAV */
 
 /* nav top */
@@ -93,7 +108,7 @@ a {
 }
 
 
-.ms_title-jumbo {
+.ms_title{
     font-size: 2.5rem;
 }
 
