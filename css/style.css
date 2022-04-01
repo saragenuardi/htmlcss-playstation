@@ -25,7 +25,7 @@ a {
 
 .ms_card {
     overflow: hidden;
-    border-radius: 10px;
+    border-radius: 15px;
 }
 
 .ms_subtitle {
@@ -67,7 +67,7 @@ a {
 }
 
 .ms_nav-bot {
-    background-color: aquamarine;
+    background-color: white;
     height: 4rem;
     line-height: 4rem;
 }
@@ -125,4 +125,15 @@ a {
     padding: 5rem;
     background-position: center;
     background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
+}
+
+/* section new exit */
+
+.new-exit {
+    background-color: #1f1f1f;
+}
+
+.ms_subtitle-new {
+    font-size: 1rem;
+    font-weight: bolder;
 }
