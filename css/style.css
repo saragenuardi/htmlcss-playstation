@@ -137,3 +137,13 @@ a {
     font-size: 1rem;
     font-weight: bolder;
 }
+
+/* section playstation-plus */
+
+.playstation-plus {
+    background-color: lightgrey;
+}
+
+.ms_logo-plus {
+    width: 20rem;
+}
