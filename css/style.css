@@ -100,9 +100,9 @@ a {
 
 /* JUMBOTRON */
 
-.jumbotron {
-    height: 650px;
-    padding-top: 20rem;
+.ms_jumbotron {
+   
+    padding-top: 25rem;
     background-position: center;
     background-image: url(../img/jumbo-bg.png);
 }
@@ -119,4 +119,10 @@ a {
 
 .ms_card-gallery img {
     width: 8rem;
+}
+
+.ms_jumbotron-2 {
+    padding: 5rem;
+    background-position: center;
+    background-image: url(../img/it-takes-two-hero-banner-desktop.jpg);
 }
