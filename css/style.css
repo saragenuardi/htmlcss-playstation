@@ -160,3 +160,53 @@ a {
 .title-social {
     font-size: 2.5rem;
 }
+
+/* footer */
+
+footer {
+    background-color: #00439c;
+}
+
+
+.ms_footer_bottom,
+.ms_footer_top {
+    margin-bottom: 4rem;
+}
+
+.ms_logo_ps_footer {
+    width: 6rem;
+}
+
+.ms_logo_globe_footer {
+    width: 1.5rem;
+}
+
+.ms_icon-world {
+    display: inline-block;
+    margin: 2rem 0;
+    margin-right: .7rem;
+}
+
+.ms_text_footer ul {
+    list-style: none;
+}
+
+.ms_text_footer a {
+    text-decoration: none;
+    color: white;
+}
+
+.ms_text_footer li {
+    padding: .3rem;
+}
+/* /Footer top */
+
+/* Footer bottom */
+#ms_logo_sie_footer {
+    width: 9rem;
+}
+
+#ms_more_info {
+    text-decoration: underline;
+    color: white;
+} 
